@@ -4,6 +4,8 @@
   "description": "fazt mern backend",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "dev": "ts-node-dev src/index.ts"
   },
   "author": "gubiarpa",
   "license": "ISC",
